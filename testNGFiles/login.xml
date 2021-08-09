@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Vodafone Regression Suite for Login" parallel="tests" thread-count='2'>
+	<!-- All tests will show in Report -->
+	<test verbose="1" name="EmuTest">
+		<parameter name="platformName" value="Android" />
+		<parameter name="udid" value="97cda28f" />
+		<parameter name="deviceName" value="one+" />
+		<parameter name="systemPort" value="8204" />
+		<parameter name="chromeDriverPort" value="8206" />
+		<parameter name="appiumPort" value="5004" />
+	    <parameter name="tdRangeStart" value="1" />
+		<parameter name="tdRangeEnd" value="5" /> 
+		<classes>
+			<class name="runners.LoginRunner" />
+		</classes>
+	</test>
+	<!--  <test verbose="1" name="EmulatorTest">
+		<parameter name="platformName" value="Android" />
+		<parameter name="udid" value="emulator-5554" />
+		<parameter name="deviceName" value="emulator-5554" />
+		<parameter name="systemPort" value="8202" />
+		<parameter name="chromeDriverPort" value="8204" />
+		<parameter name="appiumPort" value="5002" />
+		<parameter name="tdRangeStart" value="6" />
+		<parameter name="tdRangeEnd" value="10" />
+		<classes>
+			<class name="runners.LoginRunner" />
+		</classes>
+	</test>  -->
+	<!-- 	<test verbose="1" name="One+Test">
+		<parameter name="platformName" value="Android" />
+		<parameter name="udid" value="97cda28f" />
+		<parameter name="deviceName" value="one+" />
+		<parameter name="systemPort" value="8204" />
+		<parameter name="chromeDriverPort" value="8206" />
+		<parameter name="appiumPort" value="5004" />
+	    <parameter name="tdRangeStart" value="1" />
+		<parameter name="tdRangeEnd" value="5" /> 
+		<classes>
+			<class name="runners.LoginRunner" />
+		</classes>
+	</test>
+ -->	
+</suite>
+
+

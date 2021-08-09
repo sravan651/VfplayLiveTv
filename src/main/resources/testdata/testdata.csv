@@ -1,0 +1,461 @@
+TestName,ChannelName
+1,Zee Telugu
+2,ZEE 24 Taas
+3,Zee Bangla
+4,Zee Bangla Cinema
+5,Zee Anmol
+6,Zee Business
+7,Zee Cafe HD
+8,Zee Kalinga
+9,Zee Kannada
+10,Zee Marathi
+11,Zee MPCG
+12,Zee Bihar Jharkhand
+13,Zee Rajasthan News
+14,Zee Salaam
+15,And Flix
+16,Zee Talkies
+17,Zee Tamil
+18,Zee TV HD
+19,Zing India
+20,AND TV HD
+21,Divya TV
+22,DD Podhigai
+23,DD Chandana
+24,DD Yadagiri
+25,DD Malayalam
+26,DD Bangla
+27,DD Sahyadri
+28,And Pictures HD
+29,Zee Hindustan
+30,Zee 24 Ghanta
+31,Zee News
+32,Pratidin 
+33,Zee Cinema
+34,Zee TV
+35,And Pictures
+36,Discovery Telugu
+37,EUROSPORT
+38,Discovery Turbo English
+39,Animal Planet Hindi
+40,Animal Planet HD World
+41,D Tamil
+42,Discovery Science English
+43,Investigation Discovery
+44,Animal Planet English
+45,TLC HD World
+46,Discovery Science Hindi
+47,Discovery Kids Tamil
+48,Discovery Kids Hindi
+49,Discovery Hindi
+50,TLC Hindi
+51,TLC English
+52,Discovery Bangla
+53,Discovery English
+54,Discovery HD World
+55,NTV
+56,NDTV 24x7
+57,Dhoom Music
+58,NDTV INDIA
+59,NDTV GoodTimes
+60,ABP News
+61,Manorama News
+62,Samay Aalami
+63,Samay Rajasthan
+64,Samay UP
+65,HMTV
+66,Russia Today
+67,News Time Bangla
+68,Samay
+69,T News
+70,Vanitha TV
+71,Sakshi TV
+72,SVBC
+73,Bhakti TV
+74,Rupashi Bangla
+75,Mazhavil Manorama
+76,Kaumudy TV
+77,Sirippoli TV
+78,Kalaignar TV
+79,Samay MP
+80,Samay Bihar
+81,10TV
+82,Murasu
+83,Public TV
+84,Sri Sankara Kannada
+85,Sri Sankara Tamil
+86,Seithigal TV
+87,Shalom TV
+88,V6 News
+89,iNews
+90,Aradana TV
+91,Sangeet Bangla
+92,Sudarshan News
+93,NDTV Profit
+94,OM CVR
+95,CVR English News
+96,News7 Tamil
+97,ABP Majha
+98,Kerala Vision
+99,ABP Ananda
+100,Goodness TV
+101,Sanskar TV
+102,Aastha TV
+103,DW
+104,Angel TV
+105,Captain TV
+106,Arihant
+107,Aastha Bhajan
+108,Desi TV
+109,Puthiya Thalaimurai
+110,Mathrubhumi News
+111,ManaTV Telangana
+112,Yupp Telugu Premium Movies
+113,VendharTV
+114,Janam TV
+115,PuthuyugamTV
+116,PolimerTV
+117,Music India
+118,HamdardTV
+119,SafariTV
+120,Yupp Telugu Comedy Movies
+121,Yupp Telugu Classics
+122,Yupp Bengali Movies
+123,Yupp Hindi Classics
+124,Yupp Hindi Premium Movies
+125,Yupp Malayalam Movies
+126,Yupp Marathi Classics
+127,Yupp Marathi Premium Movies
+128,Yupp Tamil Classics
+129,Polimer News
+130,Sangeet Marathi
+131,Sangeet Bhojpuri
+132,Isai Aruvi
+133,DD India
+134,DD Urdu
+135,DD Punjabi
+136,DD Uttar Pradesh
+137,DD Bihar
+138,DD Rajasthan
+139,DD Madhya Pradesh
+140,DD Bharati
+141,Zee Yuva
+142,Zee Action
+143,Zee Anmol Cinema
+144,DD Kisan
+145,WION
+146,Zee Cinemalu
+147,Hindu Dharmam
+148,Aaj Tak
+149,9x Jhakaas
+150,MediaOne TV
+151,9XM
+152,9X Jalwa
+153,And Prive HD
+154,Jaihind TV
+155,Jaya Max
+156,Jeevan TV
+157,God TV
+158,Jaya Plus
+159,Reporter TV
+160,We TV
+161,Vasanth TV
+162,J-Movies
+163,Hare Krishna TV
+164,India TV
+165,Zee 24 Kalak
+166,9X Tashan
+167,Kairali TV
+168,Jaya TV
+169,TV5 Kannada
+170,Flowers TV
+171,DD National
+172,News Nation
+173,Lok Sabha Television
+174,Shraddha
+175,Kasturi Tv
+176,Aakaash Bangla
+177,nexG Movies
+178,VTV
+179,Makkal TV
+180,DD Marathi
+181,Disha TV
+182,Republic TV
+183,DD SPORTS
+184,Ishwar TV
+185,Captain News
+186,Janta TV
+187,TV5 Monde Asie
+188,Fateh TV
+189,Lakshya Tv
+190,Channel Win
+191,MK Television
+192,TV 100
+193,Shubhsandesh
+194,Sathiyam TV
+195,JK Channel
+196,Jai Maharashtra News
+197,Sri Sankara TV
+198,Rajya Sabha TV
+199,Kaatyayani TV
+200,Tamilan Television
+201,Salvation TV
+202,Nepal 1
+203,Kolkata TV
+204,MHRD 1
+205,MHRD 2
+206,Oscar Movies
+207,TV 5
+208,Calvary TV
+209,Chithiram TV
+210,Dheeran TV
+211,Harvest TV
+212,Kairali People
+213,Powervision
+214,CVR News
+215,MHRD 3
+216,MHRD 4
+217,MHRD 5
+218,MHRD 6
+219,MHRD 7
+220,MHRD 8
+221,MHRD 9
+222,MHRD 10
+223,nexGTv Bhojpuri Movies
+224,nexGTv Punjabi Movies
+225,nexGTv Cinema Movies
+226,nexGTv Hollywood Movies
+227,nexGTv Classics
+228,Prati Shirdi
+229,Vighnahar Ganpati Temple
+230,ISKCON Girgaon
+231,Mumba Devi Mandir
+232,Ichchhapuran Balaji Temple
+233,Shri Shanesware
+234,Babulnath Mandir
+235,Mahalakshmi Mandir
+236,Karni Mata Niji Pranyas
+237,SUN NEWS
+238,Ranjangaon
+239,Ganga Aarti
+240,Prayagraj Mela
+241,KTV HD
+242,SUN TV HD
+243,CHUTTI TV
+244,GEMINI MUSIC HD
+245,ADITHYA TV
+246,SUN LIFE
+247,GEMINI TV HD
+248,GEMINI TV MOVIES
+249,GEMINI MOVIES HD
+250,GEMINI MUSIC
+251,GEMINI COMEDY
+252,KUSHI TV
+253,GEMINI LIFE
+254,KOCHU TV
+255,SURYA MOVIES
+256,SURYA TV HD
+257,SURYA TV
+258,SURYA MUSIC
+259,SUN MUSIC HD
+260,SUN TV
+261,KTV
+262,SUN MUSIC
+263,SURYA COMEDY
+264,UDAYA COMEDY
+265,CHINTU TV
+266,UDAYA MUSIC
+267,UDAYA TV
+268,UDAYA TV HD
+269,UDAYA MOVIES
+270,GEMINI TV
+271,India Today
+272,Kalinga TV
+273,Assam Talks
+274,DY 365
+275,Prag News
+276,Tez TV
+277,Win TV
+278,Subhavaartha TV
+279,STV Haryana News
+280,Maha Movie
+281,Manoranjan Movies
+282,Manoranjan TV
+283,Mh 1 News
+284,Mh 1 Shradha
+285,Mh One Music
+286,MK Six
+287,Movie House
+288,Muslim TV
+289,Naxtra News
+290,NHK World
+291,Paras Gold
+292,Peace of Mind TV
+293,Prajaa TV Kannada
+294,Public Music
+295,R Plus
+296,R Plus Gold
+297,Sadhna TV
+298,Satsang
+299,Soham TV
+300,4TV News
+301,A1 TV
+302,Ahlebait TV
+303,Andy Haryana
+304,Ayush TV
+305,Bansal News
+306,Bflix Movies
+307,Bhakti Sagar
+308,Bharat Samachar
+309,BTV News
+310,Care World
+311,Chardikla Time TV
+312,CVR Health
+313,Darshan 24
+314,Gulistan News
+315,IBC 24
+316,India News UP
+317,India Voice
+318,Jinvani
+319,Kashish News
+320,Khabar Fast
+321,Khabrein Abhi Tak
+322,Lord Buddha TV
+323,DD Girnar
+324,DD Kashir
+325,Hindi Khabhar
+326,Discovery HD Hindi
+327,Discovery HD Bangla
+328,Discovery HD Malayalam
+329,Discovery HD Kannada
+330,Discovery Kids Kannada
+331,Discovery Kids Malayalam
+332,ABP Asmita
+333,TV9 Kannada
+334,TV9 Marathi
+335,TV9 Gujarati
+336,TV9 Telugu
+337,Mastii
+338,Dillagi
+339,Total TV
+340,Dhamaal
+341,Maiboli
+342,Dabangg
+343,Anjan TV
+344,DD NE
+345,DD Oriya
+346,Imayam TV
+347,India News
+348,India News Haryana
+349,India News MP
+350,India News Rajasthan
+351,Kappa TV
+352,Madha TV
+353,Malai Murasu TV
+354,Moon TV
+355,News X
+356,Saam
+357,Taaza
+358,Tunes 6
+359,WOW Cinema
+360,Big Magic
+361,Big Ganga
+362,Zee Marathi HD
+363,Zee Biskope
+364,Shiksha TV
+365,Zee Sarthak
+366,Zee Punjabi
+367,Zee Thirai
+368,Zee Keralam
+369,Epic TV
+370,ShowBox
+371,EUROSPORT HD
+372,Boogle Bollywood
+373,DD Retro
+374,YTV India HD
+375,News 1 India
+376,Kite Victers
+377,Shree Jagannath Rath Yatra
+378,Colors
+379,Colors Cineplex HD
+380,Colors Oriya
+381,News18 Kerala
+382,News18 Assam North East
+383,Colors HD
+384,News18 Urdu
+385,Colors Rishtey
+386,Colors Marathi
+387,Colors Marathi HD
+388,Colors Bangla
+389,Colors Bangla HD
+390,Colors Kannada
+391,Colors Kannada HD
+392,Colors Super
+393,Colors Tamil
+394,Colors Tamil HD 
+395,Colors Gujarati
+396,Colors Cineplex
+397,Nick
+398,Nick HD+
+399,Sonic
+400,Nick Jr
+401,History TV18
+402,History TV18 HD
+403,MTV
+404,MTV HD+
+405,MTV Beats
+406,MTV Beats HD
+407,CNN News18
+408,News18 India
+409,News18 Punjab Haryana Himachal Pradesh
+410,News18 Madhya Pradesh Chhattisgarh
+411,News18 Uttar Pradesh Uttarakhand
+412,News18 Bihar Jharkhand
+413,News18 Rajasthan
+414,News18 Lokmat
+415,News18 Bangla
+416,News18 Gujarati
+417,News18 Kannada
+418,News18 Odia
+419,News18 Tamil Nadu
+420,Colors Gujarati Cinema
+421,Colors Kannada Cinema
+422,Colors Infinity
+423,Colors Infinity HD
+424,Comedy Central
+425,Comedy Central HD
+426,CNBC TV18
+427,CNBC TV18 Prime HD
+428,CNBC Awaaz
+429,CNBC Bazaar
+430,Rishtey Cineplex
+431,Colors Bangla Cinema
+432,Astroscience
+433,Shemaroo TV
+434,Shemaroo Marathi Bana
+435,Nimbark TV
+436,P Tunes
+437,C News
+438,AB Star News
+439,Sanatan TV
+440,Pashupatinath Temple
+441,Vision Punjab Tv
+442,Anaadi TV
+443,Dainik Savera
+444,Samachar 24
+445,SSV TV
+446,Express TV
+447,ND24
+448,Sristi TV
+449,35mm
+450,Atmadarshan
+451,ANN News
+452,News Time Assam
+453,VR Live
+454,Samachar Express TV
+455,Mydreams TV
+456,V News
+457,Today News 24
+458,Pulse 24
+459,JanSetu News
+460,Gbn24 News

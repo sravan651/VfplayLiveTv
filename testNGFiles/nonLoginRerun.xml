@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Vodafone Regression Suite for Non-Login Rerun" >
+
+<!-- All tests will show in Report  -->
+<test verbose="1" name="Cucumeber Test">
+        <parameter name="platformName" value="Android" />
+	    <parameter name="udid" value="emulator-5554" />
+		<parameter name="deviceName" value="emulator-5554" />
+		<parameter name="systemPort" value="8202" />
+		<parameter name="chromeDriverPort" value="8204" />
+		<parameter name="appiumPort" value="5002"></parameter>
+		<classes>
+      	 <class name="runners.RerunNonLoginRunner"/> 
+     </classes>
+  </test>
+</suite>
